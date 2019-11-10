@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CiCd.ProjectAzure_Fina/bin
+/packages
+/.vs/CiCd.ProjectAzure_Fina/v15/.suo
+/.vs
+/CiCd.ProjectAzure_Fina/obj/Debug
